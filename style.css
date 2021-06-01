@@ -39,3 +39,11 @@ img {
 .highlight {
     font-size: 19px;
 }
+
+@media only screen and (max-width: 768px) {
+    .flex {
+        display: block;
+        margin: auto;
+        width: 50%;
+    }
+}
