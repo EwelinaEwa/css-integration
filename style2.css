@@ -71,4 +71,13 @@ td {
     border-left-style: none;
 }
 
+footer {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+a {
+    padding: 20px;
+}
 
