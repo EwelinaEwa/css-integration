@@ -1,0 +1,37 @@
+body {
+    font-family: 'Mukta', sans-serif;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.card {
+    width: 250px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.detail {
+    vertical-align: bottom;
+    margin-top: 30px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.heading1 {
+    font-size: 30px;
+    color: #80C080;
+    margin-bottom: 18px;
+}
+
+.description {
+    height: 100px;
+    font-size: 20px;
+}
